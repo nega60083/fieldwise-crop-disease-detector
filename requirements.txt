@@ -1,1 +1,5 @@
-streamlit\npillow\npandas\nrequests\ntensorflow\n
+streamlit
+tensorflow
+pillow
+pandas
+requests
