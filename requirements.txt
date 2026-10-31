@@ -1,0 +1,1 @@
+streamlit\npillow\npandas\nrequests\ntensorflow\n
